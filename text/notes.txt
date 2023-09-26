@@ -1,8 +1,8 @@
 --Game Plan--
 
 1- Intro the readme.
-2- Boilerplate index.
-3- Add h1 to index.
+xx Boilerplate index.
+xx Add h1 to index.
 4- Add h1 to beeter.
 5- Index link to beeter.
 6- Beeter, add image under h1.
