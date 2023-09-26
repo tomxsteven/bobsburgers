@@ -1,0 +1,25 @@
+--Game Plan--
+
+1- Intro the readme.
+2- Boilerplate index.
+3- Add h1 to index.
+4- Add h1 to beeter.
+5- Index link to beeter.
+6- Beeter, add image under h1.
+  7- Write description of page and burger.
+  8- Unordered ingredients list.
+  9- Ordered method list.
+10- Add at least two more to beeter, with identical structure.
+11- Link index to recipes (same path, different link names).
+    Just build them out.
+12- Publish directly from github repo.
+    Index in root directory.
+    Settings->pages (left of screen).
+    Change branch from none to main branch, no themes.
+    Save and wait.
+13- Access site @ username.github.io/reponame
+    Troubleshoot:
+      Github repo, click actions.
+      If no entries, back to settings.
+      Toggle branch from main to none and vice versa.
+      Click save and wait.
